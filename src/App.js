@@ -1,23 +1,29 @@
 import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="header">
+        <h1>DayCare Child</h1>
+        <p>Child care is a big investment, so choosing a center that meets your family’s needs is key. Your child will learn and thrive in our safe, clean environment—and you’ll get the support you need with nutritious meals provided and flexible scheduling. Our research-based curriculum offers daily age-appropriate activities that help children reach developmental milestones, and the earlier kids start here, the faster they reach them.</p>
       </header>
+
+      <main className="middle">
+        <h2>Gallery</h2>
+        <div className="image-container">
+          <img src="https://www.fundemoniumtoys.com/wp-content/uploads/2024/02/2-2-1-980x551.png" alt="Sample 1" />
+          <img src="/images/1.heic" alt="Sample 2" />
+          <img src="https://via.placeholder.com/200" alt="Sample 3" />
+        </div>
+      </main>
+
+      <footer className="footer">
+        <h3>Contact Info</h3>
+        <p>Email: example@email.com</p>
+        <p>Phone: +1 234 567 8901</p>
+      </footer>
     </div>
   );
 }
