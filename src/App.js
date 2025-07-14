@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="header">
-        <h1>DayCare Child</h1>
-        <p>Child care is a big investment, so choosing a center that meets your family’s needs is key. Your child will learn and thrive in our safe, clean environment—and you’ll get the support you need with nutritious meals provided and flexible scheduling. Our research-based curriculum offers daily age-appropriate activities that help children reach developmental milestones, and the earlier kids start here, the faster they reach them.</p>
+        <h1 id="header1">Bright Beginnings</h1>
+        <p id="header2">Choosing the right daycare is a big decision. Here, we offer a welcoming space where your little ones feel loved and supported every day. With a curriculum grounded in early childhood education best practices, we help build confidence, creativity, and social skills in a safe, clean, and fun setting.</p>
       </header>
 
       <main className="middle">
-        <h2>Gallery</h2>
+        <h2>Events</h2>
         <div className="image-container">
           <img src="https://www.fundemoniumtoys.com/wp-content/uploads/2024/02/2-2-1-980x551.png" alt="Sample 1" />
           <img src="/2.jpg" alt="Sample 2" />
@@ -23,6 +23,7 @@ function App() {
         <h3>Contact Info</h3>
         <p>Email: example@email.com</p>
         <p>Phone: +1 234 567 8901</p>
+        <p>Address : 659 Hayes st, Irvine, CA 92620</p>
       </footer>
     </div>
   );
