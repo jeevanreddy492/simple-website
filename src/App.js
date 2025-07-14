@@ -14,8 +14,8 @@ function App() {
         <h2>Gallery</h2>
         <div className="image-container">
           <img src="https://www.fundemoniumtoys.com/wp-content/uploads/2024/02/2-2-1-980x551.png" alt="Sample 1" />
-          <img src="/images/1.heic" alt="Sample 2" />
-          <img src="https://via.placeholder.com/200" alt="Sample 3" />
+          <img src="/2.jpg" alt="Sample 2" />
+          <img src="https://npr.brightspotcdn.com/dims4/default/4f4b652/2147483647/strip/true/crop/4032x3024+0+0/resize/1760x1320!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwesa%2Ffiles%2F201808%2FIMG_20180824_095104.jpg" alt="Sample 3" />
         </div>
       </main>
 
