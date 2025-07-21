@@ -22,27 +22,27 @@ function App() {
         <h2>Activities</h2>
         <div className="image-container">
 
-          <img src="images/1.jpg"></img>
-          <img src="images/2.jpg"></img>
-          <img src="images/3.jpg"></img>
           <img src="images/4.jpg"></img>
+          <img src="images/14.jpg"></img>
+          <img src="images/3.jpg"></img>
+          <img src="images/13.jpg"></img>
           <img src="images/5.jpg"></img>
 
-          <img src="images/6.jpg"></img>
-          <img src="images/7.jpg"></img>
+          <img src="images/12.jpg"></img>
+          <img src="images/15.jpg"></img>
           <img src="images/8.jpg"></img>
           <img src="images/9.jpg"></img>
           <img src="images/10.jpg"></img>
           <img src="images/11.jpg"></img>
-          <img src="images/12.jpg"></img>
-          <img src="images/13.jpg"></img>
-          <img src="images/14.jpg"></img>
-          <img src="images/15.jpg"></img>
+          <img src="images/7.jpg"></img>
+          <img src="images/2.jpg"></img>
+          <img src="images/6.jpg"></img>
+          <img src="images/20.jpg"></img>
           <img src="images/16.jpg"></img>
           <img src="images/17.jpg"></img>
           <img src="images/18.jpg"></img>
-          <img src="images/19.jpg"></img>
-          <img src="images/20.jpg"></img>
+          <img src="images/1.jpg"></img>
+          <img src="images/34.jpg"></img>
           <img src="images/21.jpg"></img>
           <img src="images/22.jpg"></img>
           <img src="images/23.jpg"></img>
@@ -56,7 +56,7 @@ function App() {
           <img src="images/31.jpg"></img>
           <img src="images/32.jpg"></img>
           <img src="images/33.jpg"></img>
-          <img src="images/34.jpg"></img>
+          
 
         </div>
       </header>
