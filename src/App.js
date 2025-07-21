@@ -26,10 +26,10 @@ function App() {
           <img src="images/14.jpg"></img>
           <img src="images/3.jpg"></img>
           <img src="images/13.jpg"></img>
-          <img src="images/5.jpg"></img>
+          <img src="images/15.jpg"></img>
 
           <img src="images/12.jpg"></img>
-          <img src="images/15.jpg"></img>
+          <img src="images/5.jpg"></img>
           <img src="images/8.jpg"></img>
           <img src="images/9.jpg"></img>
           <img src="images/10.jpg"></img>
