@@ -127,15 +127,23 @@ function App() {
         </div>
       )}
 
-      <section className="about-section provider">
-        <h2>About the Provider</h2>
-        <p>
-          With over <strong>five years of experience</strong> in early childhood education, I am passionate about creating a loving and engaging environment where children feel safe, supported, and inspired to grow.
-        </p>
-        <p>
-          I am certified in <strong>First Aid, CPR, and Early Childhood Education,</strong> and I bring a balanced approach that blends safety, education, and fun. My goal is to give children the <strong>skills, confidence, and care</strong> they need to thrive—today and in the future.
-        </p>
-      </section>
+  <section className="about-section provider">
+  <h2>About the Provider</h2>
+  <div className="provider-info">
+    <div className="provider-circle-img">
+      <img src="/images/35.jpg" alt="Provider" loading="lazy" />
+    </div>
+    <div className="provider-text">
+      <p>
+        With over <strong>five years of experience</strong> in early childhood education, I am passionate about creating a loving and engaging environment where children feel safe, supported, and inspired to grow.
+      </p>
+      <p>
+        I am certified in <strong>First Aid, CPR, and Early Childhood Education,</strong> and I bring a balanced approach that blends safety, education, and fun. My goal is to give children the <strong>skills, confidence, and care</strong> they need to thrive—today and in the future.
+      </p>
+    </div>
+  </div>
+</section>
+
 
       <section className="contact-section" id="contact">
         <h2>Contact Info</h2>
