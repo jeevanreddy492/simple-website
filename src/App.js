@@ -44,7 +44,11 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar">
-        <div className="logo">Little Stars Daycare</div>
+       <div className="logo-area">
+  <img src="/images/36.jpg" alt="Little Stars Daycare Logo" className="site-logo" />
+  <span className="site-title">Little Stars Daycare</span>
+</div>
+
         <ul className="nav-links">
           <li><a href="#home" className="nav-link">Home</a></li>
           <li><a href="#about" className="nav-link">About</a></li>
